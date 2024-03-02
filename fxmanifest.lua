@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-games { 'rdr3', 'gta5' }
+games { 'gta5' }
 lua54 "yes"
 
 author 'TopX Team'
@@ -14,7 +14,9 @@ client_scripts {
 	'client.lua',
 }
 
-shared_scripts{'config.lua'}
+shared_scripts {
+	'config.lua'
+}
 
 server_scripts {
 	'server.lua'
