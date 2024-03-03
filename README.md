@@ -1,6 +1,6 @@
 # TopXSatellite Documentation
 
-![TopXSatellite](https://cdn.discordapp.com/attachments/1206194043311095820/1213628217009639545/image.png?ex=65f62a5b&is=65e3b55b&hm=7443915cf913c7e6e685d41b43df73b062536f673162d8b5efbe642853b2c77a&)
+![TopXSatellite](https://forum.cfx.re/uploads/default/original/5X/f/f/8/f/ff8f1307756a4d6133686999ce793b02a2d47c8f.jpeg)
 
 ### Thanks For Using Our Script ❤️
 
